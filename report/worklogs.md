@@ -2,7 +2,8 @@
 
 ##2015-May-30
 
-* 
+* Finilized 'Learned Primsiples' (~4h)
+
 
 ##2015-May-01
 
