@@ -1,8 +1,9 @@
 #Daily Plans
 
-##2015-May-02
+##2015-May-30
 
-...
+1. Finilize 'learning principles' (~2h)
+1. Prepare eng stauts project and start using it (~2h)
 
 ##2015-May-01
 
