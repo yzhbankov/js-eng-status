@@ -4,6 +4,7 @@
 
 1. Finilize 'learning principles' (~2h)
 1. Prepare eng stauts project and start using it (~2h)
+1. Create skeleton of 'Tools for Collaboration' (~1h)
 
 ##2015-May-01
 

@@ -4,7 +4,6 @@
 
 * Finilized 'Learned Primsiples' (~4h)
 
-
 ##2015-May-01
 
 * *Theory*
