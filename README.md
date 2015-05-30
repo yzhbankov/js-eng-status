@@ -1,7 +1,7 @@
-#Software Engineer Trainee's Workbook
+#Software Engineer Status
 
-Collection of Reports and Project
+##Reports
 
 * [Daily Plans](report/daily-plans.md)
 * [Worklogs](report/worklogs.md)
-* [My Projects](my-projects.md)
+
