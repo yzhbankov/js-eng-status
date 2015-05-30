@@ -2,20 +2,20 @@
 
 ##Course
 
-[js-eng-init](https://github.com/brotherhood-of-javascript/js-eng-init)
+* [js-eng-init](https://github.com/brotherhood-of-javascript/js-eng-init)
 
 ###Mentor
 
-* [Petya](ppp)
+* [Igor](https://github.com/nesterone)
 
-###Team
+###My Team
 
 * [Wall E ](https://github.com/walle010101/js-eng-status)
 * [Vasya](vvv)
 * [Masha](mmm)
 * [Sasha](sss)
 
-##Reporting
+##My Reporting
 
 * [Daily Plans](report/daily-plans.md)
 * [Worklogs](report/worklogs.md)
