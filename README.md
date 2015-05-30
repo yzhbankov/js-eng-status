@@ -4,6 +4,10 @@
 
 [js-eng-init](https://github.com/brotherhood-of-javascript/js-eng-status)
 
+###Mentor
+
+* [Petya](ppp)
+
 ###Team
 
 * [Vasya](vvv)
