@@ -2,7 +2,7 @@
 
 ##Course
 
-[js-eng-init](https://github.com/brotherhood-of-javascript/js-eng-status)
+[js-eng-init](https://github.com/brotherhood-of-javascript/js-eng-init)
 
 ###Mentor
 
