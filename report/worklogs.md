@@ -1,5 +1,10 @@
 #Worklogs
 
+
+##2015-May-31
+
+* Reviwed 'Lesson 1' complited quizes, clean up tools for collaboartion (~5h) 
+
 ##2015-May-30
 
 * Finilized 'Learned Primsiples' (~4h)
