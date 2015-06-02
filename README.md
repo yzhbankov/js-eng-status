@@ -16,6 +16,7 @@
 * [Vasya](vvv)
 * [Masha](mmm)
 * [Sasha](sss)
+* [Valeriy](https://github.com/drwebmaker/js-eng-status)
 
 ##My Reporting
 
