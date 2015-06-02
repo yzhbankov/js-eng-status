@@ -12,6 +12,7 @@
 
 ###My Team
 
+* [bazzika](https://github.com/bazzika/js-eng-status)
 * [Wall E ](https://github.com/walle010101/js-eng-status)
 * [Vasya](vvv)
 * [Masha](mmm)
