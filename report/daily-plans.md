@@ -1,5 +1,10 @@
 #Daily Plans
 
+##2015-Jun-06
+
+1. Prepare Skeleton for second week (~30m)
+1. Prepare Material at least for second day of second week (~30m)
+
 ##2015-Jun-05
 
 1. Prepare course materials for first lesson about syntax (~1h)

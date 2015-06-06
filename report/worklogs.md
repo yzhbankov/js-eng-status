@@ -1,5 +1,12 @@
 #Worklogs
 
+##from 2015-Jun-01 - 2015-Jun-05
+
+* Prepared 'Basic Syntax' content 
+* Finalized first week learning material 
+ * Tools for collaboration (~3h)
+ * Tools for development (~1h)
+
 
 ##2015-May-31
 
