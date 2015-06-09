@@ -12,14 +12,11 @@
 
 ###My Team
 
-<<<<<<< HEAD
 * [Oleg Kazban](https://github.com/olehkazban/js-eng-status)
 * [Vitaliy B](https://github.com/am1k/js-eng-status)
-* [Wall E ](https://github.com/walle010101/js-eng-status)
-* [Vasya](vvv)
-* [Masha](mmm)
-* [Sasha](sss)
+* [bydens](https://github.com/bydens/js-eng-status)
 * [Valeriy](https://github.com/drwebmaker/js-eng-status)
+* [Wall E ](https://github.com/walle010101/js-eng-status)
 
 ##My Reporting
 
