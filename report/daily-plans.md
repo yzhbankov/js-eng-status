@@ -1,5 +1,11 @@
 #Daily Plans
 
+
+##2015-Jun-07
+
+1. Test samples by your own (~30m)
+1. Prepare 'eloquent samples' repo (~30m)
+
 ##2015-Jun-06
 
 1. Prepare Skeleton for second week (~30m)
