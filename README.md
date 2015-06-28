@@ -16,6 +16,7 @@
 * [Vitaliy B](https://github.com/am1k/js-eng-status)
 * [Denys Bykanov](https://github.com/bydens/js-eng-status)
 * [Valeriy](https://github.com/drwebmaker/js-eng-status)
+* [bazzika](https://github.com/bazzika/js-eng-status)
 * [Wall E ](https://github.com/walle010101/js-eng-status)
 
 ##My Reporting
