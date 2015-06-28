@@ -1,6 +1,15 @@
 #Daily Plans
 
 
+##2015-Jun-21
+
+1. Prepare content for js+browser
+1. Reorganize maintainable code section
+	* move code style here
+	* move programming land to syntax
+	* prepare project *your* util with TDD
+	* add refactoring theory, refactor existing projects
+
 ##2015-Jun-07
 
 1. Test samples by your own (~30m)
