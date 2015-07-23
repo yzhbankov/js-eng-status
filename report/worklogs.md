@@ -1,22 +1,14 @@
 #Worklogs
 
-##from 2015-Jun-01 - 2015-Jun-05
+##from 2015-Jul-20 - 2015-Jul-23
 
-* Prepared 'Basic Syntax' content 
 * Finalized first week learning material 
- * Tools for collaboration (~3h)
- * Tools for development (~1h)
+ * Values, types and operators (~6h)
+ * Program structure (~3h)
+ * Functions (~6h)
+ * Data structures: arrays and objects (~6h)
 
 
-##2015-May-31
-
-* Reviwed 'Lesson 1' complited quizes, clean up tools for collaboartion (~5h) 
-
-##2015-May-30
-
-* Finilized 'Learned Primsiples' (~4h)
-
-##2015-May-01
 
 * *Theory*
 
