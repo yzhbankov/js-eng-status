@@ -11,7 +11,7 @@
 * [Igor](https://github.com/nesterone)
 
 ###My Team
-
+* [Iaroslav Zhbankov](https://github.com/yzhbankov/js-eng-status)
 * [Oleg Kazban](https://github.com/olehkazban/js-eng-status)
 * [Vitaliy B](https://github.com/am1k/js-eng-status)
 * [Denys Bykanov](https://github.com/bydens/js-eng-status)
